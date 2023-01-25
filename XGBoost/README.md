@@ -1,5 +1,5 @@
 <div dir="rtl">
-<h1> XGBoost For Persian LPR & Titanic 3</h1>
+<h1> XGBoost برای تشخیص 5 حرف پلاک ایران & Titanic 3</h1>
 <h2>نحوه راه اندازی و اجرای برنامه </h2>
   <p>
 پروژه با زبان Python  و در محیط Google Colab نوشته شده است درختواره فایل ها به صورت زیر می باشد:
